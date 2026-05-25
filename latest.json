@@ -1,0 +1,9 @@
+{
+  "stage": "Alpha",
+  "version": "1.0.0.1",
+  "version_label": "Alpha-Version: 1.0.0.1",
+  "mandatory": true,
+  "notes": "Testupdate: automatisches Update, Neustart und Serverzeit UTC+01:00.",
+  "open_url": "https://github.com/HappyIsGott/happy-boss-call/releases/latest/download/Happy.Boss.Call.Open.exe",
+  "closed_url": "https://github.com/HappyIsGott/happy-boss-call/releases/latest/download/Happy.Boss.Call.Closed.exe"
+}
