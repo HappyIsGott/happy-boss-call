@@ -3,6 +3,7 @@
   "version": "0.0.0.0",
   "version_label": "Alpha-Version: 0.0.0.0",
   "mandatory": true,
+  "notes": "",
   "open_url": "https://github.com/happyisgott/happy-boss-call/releases/latest/download/Happy.Boss.Call.Open.exe",
   "closed_url": ""
 }
