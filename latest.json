@@ -1,9 +1,11 @@
 {
   "stage": "Alpha",
-  "version": "0.0.0.9",
-  "version_label": "Alpha-Version: 0.0.0.9",
+  "version": "0.0.0.1",
+  "version_label": "Alpha-Version: 0.0.0.1",
   "mandatory": true,
   "notes": "",
-  "open_url": "https://github.com/happyisgott/happy-boss-call/releases/latest/download/Happy.Boss.Call.Open.exe",
+  "client_url": "https://github.com/happyisgott/happy-boss-call/releases/latest/download/Happy.Boss.Call.Client.exe",
+  "server_url": "",
+  "open_url": "https://github.com/happyisgott/happy-boss-call/releases/latest/download/Happy.Boss.Call.Client.exe",
   "closed_url": ""
 }
